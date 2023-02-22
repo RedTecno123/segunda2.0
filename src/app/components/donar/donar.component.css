@@ -1,0 +1,144 @@
+img{
+    width: 100%;
+    height: 150px;
+    margin: 1.5em 0 0 0;
+}
+
+.encabezado{
+    margin: 0 5em 0 5em;
+}
+
+.text-encabezado{
+    padding: 0;
+    text-align: center;
+}
+
+.row{
+    margin: 2.5em 5em 0 5em;
+}
+
+.col-md-4{
+    text-align: center;
+}
+
+
+
+h1{
+    font-size: medium;
+    text-align: center;
+    font-weight: 600;
+}
+
+.colum2{
+    text-align: left;
+}
+
+.section{
+    width: 98%;
+    padding: 20px;
+    background-color: white;
+    margin: auto;
+    margin-top: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+summary{
+    background: #164682;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 1em;
+}
+
+.frase{
+    font-size: smaller;
+    text-align: center;
+}
+
+li{
+  font-weight: 600;
+}
+
+.dato{
+  font-weight: 300;
+  font-size: 15px;
+}
+
+h6{
+    padding: 10px;
+    color: rgb(61, 61, 61);
+    margin-left: 1em;
+}
+
+
+.card{
+    margin: 0 0 1em 1em;
+}
+
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 12px;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 1px;
+  }
+
+  label{
+    text-align: left;
+  }
+  
+  .form-group input[type="text"],
+  .form-group input[type="file"]
+ {
+    width: 100%;
+    padding: 6px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .btn {
+    padding: 5px 20px;
+    margin-left: 13px;
+    font-size: 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ed502e;
+    color: #fff;
+    text-transform: uppercase;
+    transition: background-color 0.2s ease-in-out;
+    cursor: pointer
+  }
+  
+  .btn:hover {
+    background-color: #ef6445;
+    color: #fff;
+  }
+
+  .imageV{
+    width: 100%;
+    height: 550px;
+    border-radius: 1em;
+  }
+
+
+  .donativo{
+    background: #164682;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 1em;
+  }
+
+
+  
